@@ -253,7 +253,7 @@ General Key:
 
 ##### Chinese land-based SAM Threats
 
-| Seeker       | CH-SA-4 (HQ-7) |
+| Seeker       | CSA-7 (HQ-7B)  |
 | ------------ | :------------: |
 | Mk 22        |                |
 | Mk 23        |                |
